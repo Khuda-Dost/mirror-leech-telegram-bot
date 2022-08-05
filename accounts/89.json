@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yousufgreatapp",
+  "private_key_id": "b8948a9f2383a592cafeb5d2a6ff89743877850a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsJq94zFbSlpZX\nI3aaibAZ/EcixVGEUoCaW68793HTqrW11BsK0fO5MfXg9Y/ERuo9NYbFYI/lYgsk\nZnOGLso6TnK7pkVA3TF4vJvey2v44orUWRPJZaaBwRDHA46Om55VuErmTi1436eF\np3ONYTp+vYVwz6+vogrf7jETwCVrXZ+X6MNKKREALT0KZqSAvxufzv/oNj3zSUBx\nEFBaBU6+EAjvi1TIZLwZCA0EY9DsCqi+5q4qGkAgF7YPMzZQBmwBAFf/D9oa6qgh\n4xyp/LRGST+fOrIt3g65sDkcK8U1DKMJKp5FfZ7xiznbA+2CGjlrlfRcAPfwX1Pe\nd1jM9lS3AgMBAAECggEAK6yS1tgsbLe0g33lQJaO3UDSAUHDCQlvQ/nfrpx7vcHw\n4KTjiW6zYPgKU5yo8Rg2o/m468kwKHcjsYPmahPjzUAKvo2Twz16qBFdj/vWtCkx\nJGdG7FDEGeYTrhG6cHaNiFy9b8lEowZGt1NArw0MLIxDVtfxz+KR1LbWr5aPR7np\nrXTXSoUzaG7pfNSoYs+n6SWaxS/0DgToWjY2xnPDMFhs52ihF6pjDd6wsOvqn5Gx\nuhgVzfq8+kPunf1oTCMQYdTDmSj0+JUdIj6COKeJnPMTpsvLBP1QQe5tY7UzcEs5\nJ9MjLlr+bvHB3BI5u632kQcSgI95Pe46ASzdiClnxQKBgQDd1hSjyEAPU1BRMu5z\n/CV21uq986ArorOvUQD2r274ea1jZm3pugA1sSkPNr8+1zcn5B2+vAx/HVGBFy9o\nDQYbh/HT1OuN3qK7g8xzcJJ0B6PXRpVD96KuHqukwvLEi2aX8ISf+qbDmquRbWtD\n/oFbJAYKY4LChsShAuYx0Jg4KwKBgQDGqcM8gJn/VTPK/vQAhJl6hdBbr+tcLs22\n5HrWcSPbeTn4qNEp+8cj3jWfTz0X+4Ya784KfUPx2bQvuDdxdHlpjHZm0aNsB6b/\ngxB8wUJ9010lvYdmu3FNSzY673lUVp4Bv98zgT4FSisJmB04B/iC5dmYqgmUHyEE\nLdP68STjpQKBgQCNYkkLTbCOU/InnkddwsF56WX5JJHb3bmZrg3oK02Vra81X+4D\nfdluXvglSyY+fdoYYYoXqzBnv57XoJhFP6+50j3tXZG3fMLIsiqXFJMywj/JD6JI\njEaxpLiOrPUfER2VDuToNU8d8bERYeRwlH+LP/1dl6iaJFyjpf5il2i8uwKBgQCj\nrDWn4SP/E0lKk2agDp8MLLcO8w7rsbvWVMNHbYtnRKcYUK2S81aMHIT9LaFd4uIH\ny05roeyakww6zIERPi7RYOIjr8/+LwfNN0QcJHUNiVgSweWOJBwi3DZfs/C4JWyk\ncFoJ6w8X+JUgoGxiP17lKU1u05h0qnjfIoqlEoub6QKBgGWoYahf6eZMXmpDBEmk\nZLERyaPc4Z62xdurNACF6VRekz4R2WiDnH4oqSKxIqra9bx04jupPNo+yKxPcvtu\nCa5RmtIMlb+gc4IsI8iECWuAiMjWa5+6whU/liJRh/CmldVApa1dX9j2w3U/rTrz\nRYpPpHxr8aqOZUzhiG3GWvr+\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-jdv52zvby8h3k0-wlhmff17psg@yousufgreatapp.iam.gserviceaccount.com",
+  "client_id": "108876379750327283227",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-jdv52zvby8h3k0-wlhmff17psg%40yousufgreatapp.iam.gserviceaccount.com"
+}
